@@ -39,4 +39,10 @@ Uma **função lambda** é uma **função anônima e curta** que pode ter múlti
 ### Subprogramas 
 Subprogramas em funções são blocos de código que realizam uma tarefa específica e podem ser chamados dentro de outras funções ou até mesmo dentro do mesmo escopo. No contexto de funções, subprogramas podem ser divididos em:
 
-[Exemplo de FSubprogramas em funções](subprograma.md)
+[Exemplo de Subprogramas em funções](subprograma.md)
+
+### Docstring em Funções
+
+São usadas para documentar o propósito e o comportamento de uma função em Python. Elas são definidas como uma string dentro de três aspas (`"""` ou `'''`) logo após a assinatura da função e servem para descrever o que a função faz, quais são seus parâmetros e o que ela retorna.
+
+[Exemplo de Docstring em funções](subprograma.md)
