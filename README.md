@@ -1,5 +1,5 @@
 <h1 align="center">Curso de Python</h1>
 
-## Funções
+### Funções
 
 [Doc. com exemplos de funções](./funcoes/funções.md)

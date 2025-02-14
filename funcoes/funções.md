@@ -35,3 +35,8 @@ Uma **função não pura** viola pelo menos uma das regras acima. Ou seja, ela p
 Uma **função lambda** é uma **função anônima e curta** que pode ter múltiplos argumentos, mas apenas uma **expressão**.
 
 [Exemplo de Função pura e Função lambda](.fun_lambda.md)
+
+### Subprogramas 
+Subprogramas em funções são blocos de código que realizam uma tarefa específica e podem ser chamados dentro de outras funções ou até mesmo dentro do mesmo escopo. No contexto de funções, subprogramas podem ser divididos em:
+
+[Exemplo de FSubprogramas em funções](subprograma.md)
