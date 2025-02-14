@@ -1,4 +1,5 @@
-# Funções
+# Parametro e Argumentro
+
 Em Python (e em programação de forma geral), parâmetro e argumento são conceitos relacionados, mas distintos:
 
 - `Parâmetro`: É a variável definida na assinatura de uma função que serve como um "espaço reservado" para receber um valor quando a função é chamada.
