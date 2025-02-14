@@ -1,4 +1,4 @@
-# curso-for-python
+<h1 align="center">Funções em Python</h1>
 
 ### Esses conceitos são fundamentais para entender como funções funcionam em Python e como tornar seu código mais flexível! 🚀
 
@@ -29,3 +29,9 @@ Uma **função não pura** viola pelo menos uma das regras acima. Ou seja, ela p
 * Modificar estados globais ou realizar operações de entrada/saída.
 
 [Exemplo de Função pura e Função **Não Pura](./funcoes/pura_and_inpura.md)
+
+### Função Lambda em Python
+
+Uma **função lambda** é uma **função anônima e curta** que pode ter múltiplos argumentos, mas apenas uma **expressão**.
+
+[Exemplo de Função pura e Função lambda](./funcoes/fun_lambda.md)
